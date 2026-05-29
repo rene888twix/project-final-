@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Marmelad&family=Monomakh&family=Rubik+Iso&family=Science+Gothic:wght@100..900&family=Special+Elite&family=Stalinist+One&display=swap');
+
+.ul {
+    display: flex;
+   padding: 10px 30px;
+   gap: 70px;
+    text-decoration: none;
+    list-style-type: none;
+   
+    
+    background-color: rgba(0, 0, 0, 0.453);
+  
+    border-radius: 14px;
+    
+}
+ul::after {
+    content: "🌟";  
+ 
+}
+ul::before {
+    content: "🌟";  
+ 
+}
+nav {
+    position: fixed;
+    top: 20px;
+    left: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 5;
+}
+
+   
+    
+   
+
+h1 {
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    background-color: rgb(0, 0, 0);
+   
+}
+a {
+    text-decoration: none;
+    list-style-type: none;
+    color: azure;
+    font-size: 30px;
+}
+body {
+    background-color: rgb(0, 0, 0);
+}
+body {
+  /*background-image: url('https://i.pinimg.com/736x/0e/a2/89/0ea2891307212e5727c404a606b89f6a.jpg');
+  /*без повторений*/
+  background-size: cover;
+   background-repeat: no-repeat;
+  background-position: center;
+}
+header {
+   background-color: rgb(0, 0, 0);
+    height: auto;
+  width: auto;
+}
+.kl {
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+}
+hr {
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    color: rgb(252, 255, 152);
+    transform: scale(1.2);
+    
+}
+a {
+    transition: 0.75s;
+}
+
+p {
+    color: aliceblue;
+}
+section {
+    
+    
+    
+    display: flex;
+}
+.immg {
+    max-width: 50%;
+  height: auto;
+  margin: 20px;
+  border-radius: 10px;
+  border: 2px ;
+}
+html {
+    scroll-behavior: smooth;
+}  
+h2 {
+    margin-top: 100px;
+    color: rgb(255, 248, 156);
+    justify-content: center;
+    display: flex;
+    font-size: 80px;
+}
+.qwe {
+   
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form {
+    
+     max-width: 800px;           
+    margin: 30px auto;    
+    background-color: #050117d1;
+    border-radius: 5px;
+    border: 2px solid #170f33;
+    padding: 20px; 
+    height: auto;
+    
+}
+input:focus {
+    background-color: #fffdd7;
+    transition: 0.5s;
+}
+.color {
+    color: rgb(255, 255, 255);
+}
+input {
+    text-align: center;
+    margin: 10px;
+    width: 94%;               
+    padding: 8px;
+    box-sizing: border-box;
+    color: black;
+}
+p {
+    display: flex;
+    justify-content: center;
+   font-family: "Marmelad", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   font-size: 24px;
+   padding-bottom: 20px;
+    text-align: center;
+}
+h3 {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+     font-family: "Monomakh", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+}
+input {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+input .otp {
+    display: flex;
+    justify-content: center;
+}
+ol {
+    color: aliceblue;
+     font-size: 24px;
+}
+.history {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.bot {
+    
+    margin: 20px;
+    color: rgb(204, 209, 255);
+}
+.ot {
+    margin: 20px;
+    color: rgb(204, 209, 255);
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 25px;
+
+}
+.cx::before {
+ content: "🎇";  
+  margin-right: 8px;  
+  color: #feffba;  
+
+}
+.vpe::before {
+ content: "🌠";  
+  margin-right: 8px;  
+  color: #feffba;  
+
+}
+.cx {
+    color: #cac9e3;
+    font-size: 25px;
+    
+}
+.vig {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.vidi {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.vvq {
+    margin: 20px;
+    color: rgb(243, 240, 223);
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 25px;
+}
+.text {
+    font-size: 30px;
+     text-align: center;
+     margin: 15px;
+}
+.text2 {
+    margin-top: 20%;
+}
+.cards-container1 {
+    display: flex;
+    width: auto;
+    justify-content: center;
+   
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+       margin-bottom: 20px;
+       
+}
+
+.cards-container2 {
+     display: flex;
+    width: auto;
+    justify-content: center;
+   
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+       margin-bottom: 20px;
+       position: relative;
+}
+
+.newimg {
+    width: 99%;
+    height: 65%;
+    border-radius: 14px;
+    margin: 5px;
+}
+.newimg2 {
+    width: 99%;
+    height: auto;
+    border-radius: 14px;
+    margin: 5px;
+}
+.car {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+
+.card1 {
+   color: white;
+     background: rgba(7, 11, 31, 0.737); 
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 25px 10px;
+    padding-bottom: 50px;
+    transition: transform 0.3s , border-color 0.3s;
+    position: relative;
+    margin: 10px 10px;
+    height:auto;
+}
+.card1:hover {
+    transform: translateY(-5px);
+    border-color: #98aefc; 
+     background:rgba(102, 98, 230, 0.178); 
+    box-shadow: 7px 7px 7px #7278cd51;
+    
+}
+.card2 {
+    color: white;
+    background: rgba(5, 10, 36, 0.804); 
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 25px;
+    transition: transform 0.3s , border-color 0.3s;
+    position: relative;
+    margin: 10px 10px;
+    height: auto;
+
+}
+.card2:hover {
+    transform: translateY(-5px);
+    border-color: #98aefc; 
+    background:rgba(102, 98, 230, 0.178); 
+    box-shadow: 7px 7px 7px #7278cd51;
+    
+}
+.card3 {
+   color: white;
+     background: rgba(8, 12, 38, 0.8); 
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 25px;
+    transition: transform 0.3s , border-color 0.3s;
+    position: relative;
+    margin: 10px 10px;
+    height: 100%;
+}
+.card3:hover {
+    transform: translateY(-5px);
+    border-color: #98aefc; 
+    background:rgba(102, 98, 230, 0.178); 
+     box-shadow: 7px 7px 7px #7278cd51;
+    
+}
+.card4 {
+    color: white;
+     background: rgba(7, 11, 32, 0.833); 
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 25px;
+    transition: transform 0.3s , border-color 0.3s;
+    position: relative;
+    margin: 10px 10px;
+    height: 100%;
+
+}
+.card4:hover {
+    transform: translateY(-5px);
+    border-color: #98aefc; 
+     background:rgba(102, 98, 230, 0.178); 
+   box-shadow: 7px 7px 7px #7278cd51;
+    
+}
+.zac {
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.history-t {
+    font-family: 'Marmelad', sans-serif;
+    font-size: 24px;
+    line-height: 1.6; /* Увеличиваеет расстояние между строками */
+    color: #e0e0e0;
+    max-width: 800px;
+    margin: 0px auto 40px;
+    text-align: center;
+}
+
+.history-steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Карточки встанут в ряд сами */
+    gap: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+.step-card {
+    background: rgba(42, 42, 42, 0.563); 
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 25px;
+    transition: transform 0.3s , border-color 0.3s;
+    position: relative;
+    
+}
+.step-card:hover {
+    transform: translateY(-5px);
+    border-color: #fcf598; 
+    background: rgba(52, 51, 51, 0.603);
+}
+
+
+.step-card::before {
+    content: attr(data-step); /* Берет номер из атрибута в HTML */
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    font-size: 80px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.06); 
+    z-index: 0;
+}
+h4 {
+    font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+}
+
+.step-card2 {
+    background: rgba(33, 33, 33, 0.659); 
+    border: 1px solid rgba(255, 255, 255, 0.088);
+    border-radius: 15px;
+    padding: 25px;
+    transition: transform 0.3s , border-color 0.3s;
+    position: relative;
+    
+}
+.step-card2:hover {
+    transform: translateY(-5px);
+    border-color: #98aefc; 
+    background: rgba(73, 72, 72, 0.578);
+}
+
+
+.step-card2::before {
+    content: attr(data-step); /* Берет номер из атрибута в HTML */
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    font-size: 80px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.06); 
+    z-index: 0;
+}
+.kon {
+    font-size: 10px;
+}
+#stars-f {
+    position: fixed;
+    background-color: black;
+    z-index: -1;
+      top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
